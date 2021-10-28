@@ -1,0 +1,7 @@
+-   id: check-norm
+    name: check norm
+    description: check norm with norminette app
+    entry: norminette
+    language: python
+    stages: [commit, push, manual]
+    types: [text]
