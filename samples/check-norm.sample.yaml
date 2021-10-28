@@ -1,0 +1,6 @@
+repos:
+-   repo: https://github.com/xbeheydt/42school-pre-commit-hooks
+    rev: v0.1.0
+    hooks:
+    -   id: check-norm
+        args: [libft]
