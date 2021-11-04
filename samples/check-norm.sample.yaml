@@ -4,3 +4,4 @@ repos:
     hooks:
     -   id: check-norm
         args: [libft]
+    -   id: run-munit

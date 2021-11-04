@@ -11,3 +11,6 @@ See also: https://github.com/pre-commit/pre-commit
 This helper run norminette in your project.
 - You can use all arguments used by norminette.
 
+`run-munit`
+
+This hook can run compilation tests and project with run unit tests.

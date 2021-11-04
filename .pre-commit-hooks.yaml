@@ -5,3 +5,11 @@
     language: python
     stages: [commit, push, manual]
     types: [text]
+-   id: run-munit
+    name: run unit tests munit
+    description: launch unit tests from makefile in project.
+    language: script
+    entry: make
+    args: [test]
+    stages: [commit, push, manual]
+    types: [text]
