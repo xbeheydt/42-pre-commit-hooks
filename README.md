@@ -23,7 +23,7 @@ in your project, as a model :
 curl https://raw.githubusercontent.com/xbeheydt/42-pre-commit-hooks/master/samples/pre-commit.config.sample.yaml > .pre-commit.config.yaml
 ```
 
-To activte pre-commit :
+To activate pre-commit :
 
 ```bash
 # inside top level project or in submodule folders
